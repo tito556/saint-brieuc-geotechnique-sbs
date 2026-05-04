@@ -1,0 +1,52 @@
+# Geotechnique — Saint-Brieuc
+
+> Geotechnical engineering services in Saint-Brieuc, France.
+
+## Services
+- [Amelioration Sols](https://saint-brieuc.geotechnique.sbs/amelioration-sols/)
+- [Ancrages](https://saint-brieuc.geotechnique.sbs/ancrages/)
+- [Cbr Routier](https://saint-brieuc.geotechnique.sbs/cbr-routier/)
+- [Chaussee Rigide](https://saint-brieuc.geotechnique.sbs/chaussee-rigide/)
+- [Chaussee Souple](https://saint-brieuc.geotechnique.sbs/chaussee-souple/)
+- [Colonnes Ballastees](https://saint-brieuc.geotechnique.sbs/colonnes-ballastees/)
+- [Confidentialite](https://saint-brieuc.geotechnique.sbs/confidentialite/)
+- [Densite Cone Sable](https://saint-brieuc.geotechnique.sbs/densite-cone-sable/)
+- [Essai Cpt](https://saint-brieuc.geotechnique.sbs/essai-cpt/)
+- [Essais Proctor](https://saint-brieuc.geotechnique.sbs/essais-proctor/)
+- [Excavations](https://saint-brieuc.geotechnique.sbs/excavations/)
+- [Excavations Profondes](https://saint-brieuc.geotechnique.sbs/excavations-profondes/)
+- [Fondations](https://saint-brieuc.geotechnique.sbs/fondations/)
+- [Geotechnique Routiere](https://saint-brieuc.geotechnique.sbs/geotechnique-routiere/)
+- [Granulometrie](https://saint-brieuc.geotechnique.sbs/granulometrie/)
+- [Injections](https://saint-brieuc.geotechnique.sbs/injections/)
+- [Investigation](https://saint-brieuc.geotechnique.sbs/investigation/)
+- [Isolation Sismique](https://saint-brieuc.geotechnique.sbs/isolation-sismique/)
+- [Labo In Situ](https://saint-brieuc.geotechnique.sbs/labo-in-situ/)
+- [Laboratoire](https://saint-brieuc.geotechnique.sbs/laboratoire/)
+- [Limites Atterberg](https://saint-brieuc.geotechnique.sbs/limites-atterberg/)
+- [Liquefaction](https://saint-brieuc.geotechnique.sbs/liquefaction/)
+- [Masw](https://saint-brieuc.geotechnique.sbs/masw/)
+- [Microzonage Sismique](https://saint-brieuc.geotechnique.sbs/microzonage-sismique/)
+- [Murs Soutenement](https://saint-brieuc.geotechnique.sbs/murs-soutenement/)
+- [Permeabilite In Situ](https://saint-brieuc.geotechnique.sbs/permeabilite-in-situ/)
+- [Pieux](https://saint-brieuc.geotechnique.sbs/pieux/)
+- [Puits Inspection](https://saint-brieuc.geotechnique.sbs/puits-inspection/)
+- [Radiers](https://saint-brieuc.geotechnique.sbs/radiers/)
+- [Refraction Sismique](https://saint-brieuc.geotechnique.sbs/refraction-sismique/)
+- [Resistivite](https://saint-brieuc.geotechnique.sbs/resistivite/)
+- [Semelles](https://saint-brieuc.geotechnique.sbs/semelles/)
+- [Sismique](https://saint-brieuc.geotechnique.sbs/sismique/)
+- [Sondages Spt](https://saint-brieuc.geotechnique.sbs/sondages-spt/)
+- [Stabilite Talus](https://saint-brieuc.geotechnique.sbs/stabilite-talus/)
+- [Surveillance Excavations](https://saint-brieuc.geotechnique.sbs/surveillance-excavations/)
+- [Talus](https://saint-brieuc.geotechnique.sbs/talus/)
+- [Triaxial](https://saint-brieuc.geotechnique.sbs/triaxial/)
+- [Tunnels Sol Mou](https://saint-brieuc.geotechnique.sbs/tunnels-sol-mou/)
+- [Vibrocompactage](https://saint-brieuc.geotechnique.sbs/vibrocompactage/)
+
+## Contact
+- Website: https://saint-brieuc.geotechnique.sbs/
+
+## About
+This site provides geotechnical engineering services in Saint-Brieuc, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
