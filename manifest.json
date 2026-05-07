@@ -11,5 +11,10 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ]
+  ],
+  "lang": "fr",
+  "orientation": "portrait-secondary",
+  "scope": "/",
+  "description": "Services géotechniques professionnels à Saint-Brieuc, France. Études de sol, essais et conseil technique.",
+  "id": "/saint-brieuc-8129"
 }
